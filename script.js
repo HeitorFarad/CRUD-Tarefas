@@ -70,4 +70,5 @@ function limparLista() {
         document.getElementById(listaTarefas[0]).remove()
         listaTarefas.splice(0, 1)
     }
+    //mudar mensagem de texto "Tarefas limpas com sucesso"
 }
